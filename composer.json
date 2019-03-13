@@ -19,5 +19,10 @@
     "phpunit/phpunit": "~5",
     "phpmetrics/phpmetrics": "^2.0",
     "phpstan/phpstan": "^0.9.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.2-dev"
+    }
   }
 }
